@@ -1,0 +1,1 @@
+{"uuid":"ba6c3d62-2eec-4db7-9bb0-ba0db4dc6105","name":"com.practice.test","children":["787d4061-f49e-432b-8eb1-9fa9c01bdf82"],"befores":[],"afters":[{"name":"teardown","status":"broken","stage":"finished","description":"","steps":[],"attachments":[],"parameters":[],"start":1610628303594,"stop":1610628303597}],"links":[],"start":1610628303204,"stop":1610628303615}
